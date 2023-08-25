@@ -7,7 +7,7 @@ const bot = new TelegramBot(token, { polling: true });
 const projects = {
   '1': 'https://project1link.com',
   '2': 'https://project2link.com',
-  '3': 'https://project1link.com',
+  '3': 'https://project3link.com',
   '4': 'https://project2link.com',
   // Add more project IDs and links here
 };
